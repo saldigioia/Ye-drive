@@ -1,11 +1,10 @@
 import type { Site, Metadata, Socials } from "@types";
 
 export const SITE: Site = {
-  NAME: "Astro Nano",
-  EMAIL: "markhorn.dev@gmail.com",
+  NAME: "Ye Drive",
+  EMAIL: "saldigioia@pm.me",
   NUM_POSTS_ON_HOMEPAGE: 3,
-  NUM_WORKS_ON_HOMEPAGE: 2,
-  NUM_PROJECTS_ON_HOMEPAGE: 3,
+  NUM_PROJECTS_ON_HOMEPAGE: 9,
 };
 
 export const HOME: Metadata = {
@@ -14,17 +13,13 @@ export const HOME: Metadata = {
 };
 
 export const BLOG: Metadata = {
-  TITLE: "Blog",
+  TITLE: "Press",
   DESCRIPTION: "A collection of articles on topics I am passionate about.",
 };
 
-export const WORK: Metadata = {
-  TITLE: "Work",
-  DESCRIPTION: "Where I have worked and what I have done.",
-};
 
 export const PROJECTS: Metadata = {
-  TITLE: "Projects",
+  TITLE: "Collections",
   DESCRIPTION: "A collection of my projects, with links to repositories and demos.",
 };
 
