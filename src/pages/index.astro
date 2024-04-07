@@ -67,6 +67,24 @@ const projects: Entry[] = (await getCollection("projects"))
           ))}
         </ul>
       </section>
+      
+      <section class="animate space-y-6">
+        <div class="flex flex-wrap gap-y-2 items-center justify-between">
+          <h5 class="font-semibold text-black dark:text-white">
+            My Collections
+          </h5>
+          <Link href="/projects">
+            See all file lists
+          </Link>
+        </div>
+        <ul class="flex flex-col gap-4">
+          {projects.map(project => (
+            <li>
+              <ArrowCard entry={project} />
+            </li>
+          ))}
+        </ul>
+      </section>
 
       <section class="animate space-y-6">
         <div class="flex flex-wrap gap-y-2 items-center justify-between">
@@ -94,24 +112,6 @@ const projects: Entry[] = (await getCollection("projects"))
             Let's explore the potential of this collaboration. Your insights and expertise could help us uncover new aspects of this collection and pave the way for exciting next steps.
           </p>
         </article>
-      </section>
-
-      <section class="animate space-y-6">
-        <div class="flex flex-wrap gap-y-2 items-center justify-between">
-          <h5 class="font-semibold text-black dark:text-white">
-            My Collections
-          </h5>
-          <Link href="/projects">
-            See all file lists
-          </Link>
-        </div>
-        <ul class="flex flex-col gap-4">
-          {projects.map(project => (
-            <li>
-              <ArrowCard entry={project} />
-            </li>
-          ))}
-        </ul>
       </section>
 
       <section class="animate space-y-4">
