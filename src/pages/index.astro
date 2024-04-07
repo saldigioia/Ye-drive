@@ -1,4 +1,5 @@
 ---
+// Your existing script tags and imports remain unchanged here
 import { getCollection } from "astro:content";
 import Container from "@components/Container.astro";
 import PageLayout from "@layouts/PageLayout.astro";
@@ -30,7 +31,6 @@ const projects: Entry[] = (await getCollection("projects"))
   .filter((project: Entry) => !project.data.draft)
   .sort((a: Entry, b: Entry) => b.data.date.valueOf() - a.data.date.valueOf())
   .slice(0, SITE.NUM_PROJECTS_ON_HOMEPAGE);
-
 ---
 
 <PageLayout title={HOME.TITLE} description={HOME.DESCRIPTION}>
@@ -66,6 +66,34 @@ const projects: Entry[] = (await getCollection("projects"))
             </li>
           ))}
         </ul>
+      </section>
+
+      <section class="animate space-y-6">
+        <div class="flex flex-wrap gap-y-2 items-center justify-between">
+          <h5 class="font-semibold text-black dark:text-white">
+            Kanye West Collection
+          </h5>
+        </div>
+        <article class="space-y-4">
+          <p class="animate">
+            Alongside the files I’ve already mentioned, I’ve meticulously gathered and sorted a unique assortment of Kanye West-related media:
+          </p>
+          <ul class="list-disc ml-5 space-y-1">
+            <li>Nearly all of the posts from Kanye's Universe City blog</li>
+            <li>A spreadsheet containing tens of thousands of tweets</li>
+            <li>All Kanye-related posts from the now-defunct DjAtrak.com blog</li>
+            <li>PDF scans and text versions of numerous magazine covers and features</li>
+          </ul>
+          <p class="animate">
+            Additionally, I have an extensive collection of audio files, including freestyles, throwaway tracks, full studio sessions, stems, and dated album variants. While it may take a lifetime to fully organize my “TBD” folder, I’ve made a significant effort.
+          </p>
+          <p class="animate">
+            Beyond what's included here, I'm well-connected with the top individuals doing this work online. I'm aware of the rare gems within the community that are currently missing from my collection, and I can acquire many of these items within seconds.
+          </p>
+          <p class="animate">
+            Let's explore the potential of this collaboration. Your insights and expertise could help us uncover new aspects of this collection and pave the way for exciting next steps.
+          </p>
+        </article>
       </section>
 
       <section class="animate space-y-6">
