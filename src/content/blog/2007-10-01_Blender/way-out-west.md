@@ -1,0 +1,103 @@
+---
+title: "Way Out West"
+description: "Way Out West tells Blender the Genre Can’t Contain Him: “I Want to Be the No. I Artist in the World” It’s official: bright-yellow pantswear is a fashion don’t. Kanye West has spent the better part of ..."
+date: "2007-10-01"
+author: "Jody Rosen"
+source: "Blender"
+summary: "Way Out West tells Blender the Genre Can’t Contain Him: “I Want to Be the No. I Artist in the World” It’s official: bright-yellow pantswear is a fashion don’t. Kanye West has spent the better part of an hour trying to put together a suitable outfit for this evening’s performance at Giants Stadium in New Jersey. There is an extended debate about which colorcombinations willstand out best against the backdrop of the Live Earth stage."
+draft: false
+---
+
+# Way Out West
+
+# Kanye West Spent His Life Struggling for the Respect of His Hip-Hop Peers. Now He Tells Blender the Genre Can’t Contain Him: “I Want to Be the No. I Artist in the World”
+
+It’s official: bright-yellow pantswear is a fashion don’t. Kanye West learns this immutable sartorial law the hard way, when he saunters into a midtown-Manhattan recording studio sporting jeans (and matching Nikes) of a hue somewhere between Banana Breeze and Scalding Sunburst. “How does this look?” West asks the roomful of friends and associates. A long silence follows. Finally, one of West’s backup singers speaks up: “Naw, man, that’s the worst yet.” “Damn!” says West, as everyone breaks into laughter.
+
+It’s a steamy Saturday in July, and West has already spent the better part of an hour trying to put together a suitable outfit for this evening’s performance at Giants Stadium in New Jersey — the U.S. edition of Live Earth, Al Gore’s six-continent-spanning environmental mega-concert. A certifiable dandy, West does not take such decisions lightly. “Clothes are my drug,” he’ll later say. “And I like to overdose.” Popping into an adjacent room to try on ensembles for his dozen-strong entourage, West dismisses one look as “very hood — a.k.a. wack.” There is an extended debate about which colorcombinations willstand out best against the backdrop of the Live Earth stage: a garish grid of car tires inset with flashing lights. For a few minutes, West settles on white trousers topped by a white polo-style shirt with a multicolored-pinwheel design splashed across the chest. “This shirt is fresh,” he crows. But then, doubts start creeping in. “The all-white, with the white Jordans, it’s too Diddyish,” he says. “Too St. Tropez.” Back to the drawing board.
+
+“It isn’t always like this,” West says, after finally choosing a pair of gray jeans, a red polo topped with a white jacket and blindingly white new high-tops. “But you know, it’s a tough decision, what to wear on worldwide TV.” And Kanye West has a reputation to uphold. “With me,” he adds, “people expect the unexpected.”
+
+Since first emerging from Chicago in the early part of this decade, West has maintained his status as one of popular music’s most reliable iconoclasts, with a thriving side-business in provocation and scandal. In 2004, he graduated from behind-the-scenes beatmaker to full-fledged hip-hop auteur and soon thereafter was declaring himself a “legend,” storming awards-show stages in indignation when denied prizes he knew were rightly his and posing for magazine covers costumed as Jesus Christ.
+
+The bluster was extreme, but few could deny the powerful originality of his persona — and his music. He had a foot in both the earthy, boho-rap world of his Chicago homeboy Common and in the rarefied realm of the Moët-swilling hip-hop elite — but wanted membership in neither. At a time when most rappers dressed in thugged-out streetwear or—on those special red-carpet occasions-double-breasted Al Capone zoot suits, West was unabashedly metrosexual, nicknaming himself the “Louis Vuitton Don,” arriving on stages clad in pastel polos, sweater vests and other garb straight outta cocktail hour at the Kennebunkport yacht club. His songs were similarly full of contradictions and cognitive dissonances, outrageous boasts that segued into harsh self-criticism, tussles for Kanye’s soul that pit God against Mammon, lustful odes to diamond jewelry that veered into jeremiads about human-rights abuses in the global diamond trade.
+
+It’s music that was presumed to have no commercial potential — West had to convince his friend Jay-Z to give him a record deal — but *The College Dropout* (2004) and *Late Registration* (2005) wracked up multi-platinum sales. They also won Grammys (though not the ones West would have preferred), topped critics polls and established West as the kind of pop star who gets invited along with a cadre of A-list celebrities to appear on a network-television special in the wake of a national catastrophe. So it was that Americans tuning in to NBC’s *A Concert for Hurricane Relief* on September 2, 2005, found themselves watching a 28-year-old rapper excoriate the president — “George Bush doesn’t care about black people” — on live television. Apparently, NBC’s upper brass missed the memo. RE: Mr. Kanye West, expect the unexpected.
+
+Now, as West readies the release of his third album, Graduation, it’s business as usual. Which is to say, it’s unusual. “If I was trying to make an album that sounded exactly like The College Dropout, then I’d be dropping off’into the nostalgia world,” West says. “This album is going to challenge listeners.” The first single, “Can’t Tell Me Nothing,” is a slow, brooding song powered by an eerie vocal sample that West describes, with a shake of his head, as “so different — kind of African, kind of digital-sounding.” It’s far from an obvious choice for a lead single, a fact that pleases West to no end. “I encountered some resistance from the record label, because I have some other songs that are much more digestible. But ‘Can’t Tell Me Nothing’— that shit just cuts my soul. I had to drop it first.” And then there’s the second single, “Stronger,” an even bigger departure. A stormy dance track built around a robotic Daft Punk vocal loop and clobbering drums, it sounds more like big-beat electronica, or even rock, than hip-hop.
+
+Which, apparently, is exactly the way West wants it. Ask him what music he’s listening to these days, and you’re left wondering if he’s been spending quiet evenings at home in the glow of his laptop, surfing the dweebiest corners of the rock blogosphere. “I love the Killers ... I like Keane-they’re one of my favorite groups. And Modest Mouse. I like how authentic that album sounded, like it was from the ‘60s.” West got turned on to Daft Punk by his DJ, A-Trak (“A-Trak is definitely a music snob — he could be, like, a blogger or whatever”). And then there’s West’s prime source for un-stuntastic sounds. “VH1 put me up on the All-American Rejects. It put me up on Regina Spektor. It put me up on Feist.”
+
+The 2007 model Kanye West comes on like an indie-fied aesthete. He talks a blue streak about Takashi Murakami, the star Japanese pop artist West brought in to do a nerd-chic overhaul of the Graduation packaging. He raves about his forthcoming TV show, currently in preproduction, a classy “one-camera” sitcom on the ultimate high-middlebrow network, HBO. Go to West’s Website, and the first thing you’ll see isn’this big-budget Hype Williams-directed “Can’t Tell Me Nothing” video, but the Saturday Night Live-style spoof, commissioned by West himself, in which indie comedian Zach Galifianakis and folk warbler Will Oldham lip-sync “Can’t Tell Me Nothing” while romping around a North Carolina farm.
+
+And then there are his musical excursions. That mix-tape freestyle, rap-sung to the tune of “Young Folks,” the chirrupy hit by Stockholm indie-pop combo Peter Bjorn and John. Another mix-tape joint, “Us Placers,” with West rhyming over a dour, nearly beatless loop from Thom Yorke’s “The Eraser.” That Fall Out Boy remix. “Homecoming,” a track on the new album performed with Chris Martin. It’s quite a list: quirky indie chanteuses; French electronica geeks; postrock eggheads. As you run down the discography, you find yourself thinking, Maybe it’s Kanye West who doesn’t care about black people.
+
+Of course, West is merely following his muse, which these days is leading him in a direction he cheekily calls a “non-no-brainer.” But West is determined to drag the world along with him. “See, I have a very clear goal,” he says. “I want to be the worldwide top artist. You can quote that. I want to be the No. 1 artist in the world.”
+
+***
+
+If you’re a headliner at a concert whose purpose is to raise consciousness about global climate change, the politically correct move is not to roll up to the show in a vehicle the size of the Staten Island ferry. But when West ducks out of the recording studio with a Louis Vuitton duffel bag slung over his shoulder to head to Giants Stadium, he clambers into the backseat of a giant black SUV. He is the first person to admit, George Bush dissing aside, “I’m not very tuned in to politics. I apologize to people who expect me to act like I work at CNN.”
+
+As the car creeps downtown through Manhattan traffic, West sits back and talks, occasionally craning his neck to assess the passing parade of New York women (“Whoa. Did you see her?”; “I’m sorry, but those are some terrible titties”). He ricochets from topic to topic, with a mix of braggadocio and modesty, cantankerousness and charm that is familiar from his songs. West is a jet-setter these days-“I spend half the year in New York, half in L.A., half overseas: the three halves” — and boldface names crop up frequently. “Harley, my trainer, he’s Jessica Simpson’s trainer, too. That’s my whole stunt. Ifa girl comes around, she’s like, You’re with Jessica Simpson’s trainer? Wow!”
+
+Ask West, 30, about his personal life — his engagement to his longtime girlfriend, fashion designer Alexis Phifer, or whether he plans to have children — and he gets testy. “Yes, I’m engaged. Yes, I plan to have kids. But I’m not gonna base the night that I conceive a child off of what I tell Blender magazine.”
+
+But when the talk turns to other topics — art, fashion and, especially, music — Kanye is irrepressible. He professes his passion for architecture and design, whipping out a digital camera to show Blender pictures of the renovations on his two homes, a sleek 2,800 —square-foot Manhattan loft and a sprawling house in Beverly Hills.
+
+“I like minimalism in architecture,” West says. “The architect who’s doing my place, Claudio Silvestrin, is a minimalist. I’m no authority on architecture. But I’m coming. Eventually, I will be a master.”
+
+He digs through his duffel bag and produces the strange pair of eyeglasses that he wears in the “Stronger” video, techno-futuristic-looking white spectacles with horizontal slats across the eyes in place of lenses. “These glasses are one of the best things to happen to me this year,” he says.
+
+“It’s funny, being a so-called fashion icon,” he continues. “T ve made a lot of mistakes, fashionwise. Expensive mistakes. Honestly, I don’t dress as fresh as I want to. But every day I’m getting better. By the time I’m 50, 60, I’ll have impeccable taste.”
+
+Suddenly, 50 Cent’s “I Get Money” comes buzzing out of the radio. “Turn this up, please,” West says. “50 is poppingon this.” West nods his head to the beat. “I’m stanky rich/I’m-a die tryin’ to spend this shit,” 50 raps. Kanye laughs: “You know, I’m really not, like, extremely rich. I’ll hear 50 drop a number, like, ‘I spent this much, and I’m like: ‘Damn! 50 is so much richer than me!’”
+
+50 Cent is on West’s mind these days, and for good reason: Graduation is slated Correlease thesamed ayas hidalum, Kanye says. “I got on the phone with Def Jam like, ‘Yo, I want to do this. There were many people there who were like, ‘Don’t go up against him, blah blah blah? There were people that weren’t ready for that fight. And I was like, ‘Man, this is what I do!”
+
+***
+
+Kanye Omari West was born in Atlanta in 1977. When he was 3, his parents divorced and he moved to Chicago with his mother, Dr. Donda West, a college English professor: West is famously adoring of his mother — he paid tribute to her on Late Registration’s rhapsodic “Hey Mama,” and she has worked as Kanyes manager since retiring from teaching — but he had a close relationship with both parents, spending school vacations in Washington, D.C., with his father, Ray West, a former Black Panther and a photojournalist. (*I read this stuff like, ‘Kanye didn’t have a father, and then my father starts to get mad at me. I’m like, ‘Dad, do you know how many things I’m mad at the press for?””)
+
+Kanye was raised in sophisticated, upper-middle-class circumstances — he attended high school in leafy Oak Lawn, Illinois — which helps explain the cosmopolitanism of his music, his disinterest in proving his hood bona fides and his skill at moving between genres, styles and social worlds. “I have a grasp on the temperament of people, from the hood to white people. I have an understanding of it, and I’ll speak very candidly about it,” he says. t
+
+Kanye briefly attended art school and Chicago’s Columbia College but dropped out to pursue a musical career. He made a name producing tracks for local artists, and in 2000, got his first major-label break with “This Can’t Be Life,” on The Dynasty: Roc La Familia. His production style was distinctive: At a time when sampling was considered déclassé, West took big vocal loops from old soul records and adjusted the pitch, speeding them up to create a helium effect that was dubbed “chipmunk soul.”
+
+The rest is the stuff of hip-hop lore. Kanyes soul-drenched tracks for Jay-Z’s 2001 smash The Blueprint made him hip-hop’s hottest new producer. Then in October of the next year, he nearly died in a car accident after falling asleep at the wheel on the way home from a late-night recording session. This brush with mortality (recounted on his debut single, “Through the Wire”) only increased West’s determination to step out from behind the mixing board.
+
+“He always wanted to be an artist, from the beginning,” Jay-Z, recalls. “When we were working on tracks, as soon as he’d finish one of my songs, he’d be like, ‘Check this out. And then he’d put on a CD with one of his songs and just perform the whole thing right there in the studio. And I’d be like, Um, okaaaaaayyy, great. You got another beat?’ Honestly, everybody was just trying to figure out how to keep him around, because he was making these fantastic tracks. That’s really how his record deal happened. We were like, [Heavy sigh] OK, let’s just give him a deal.”
+
+For Jay-Z and his crew at Roc-A-Fella, Kanye was a brother from another planet. “We couldn’t see how it would work for him commercially, in the rap game,” Jay-Z says. “I mean, he had these pink polos with the collars up. We all had these big chains, we had hard backgrounds, no fathers. Kanye was just a different thing for us. We didn’t know what to make of him.”
+
+***
+
+The Kanye Mobile is on the Jersey Turnpike now, approaching Giants Stadium. West asks if Blender would like to hear his new album. He shouts toward the front of the SUV, where the chauffeur, a bodyguard, his manager and one of his engineers are seated: “C’mon, let’s turn off this T-Pain and put on my record!” The CD is promptly cued up, the volume boosted and the car is soon awash in the sound of Graduation’s opening track, “I Wonder.” It’s gorgeous — a swirl of keyboards and strings, with a stately beat. But it sounds more like down-tempo electronic mood music a little bit like Moby’s Play-than the opening track to a blockbuster rap album.
+
+Blender glances over at West, whose eyes are closed as he sways to the music. “It’s my favorite song on the album,” he says finally. “I went back and forth about whether to open the album with this. But I decided it’s perfect: People who like ‘Stronger’ but who aren’t rap fans, they’ll get into this, they’ll feel the mood, get their head in a different space. And the people who are real rap fans, for the first two verses —where shit is really sparse— they’ll think I’m just introing the album.”
+
+The more West talks, the clearer it becomes that he is approaching his career a bit like a politician — trying to hold onto his traditional supporters while reaching out to swing voters. “Look at ‘Stronger,” he says. “It gets played on rap radio, and it gets added to rock stations? That’s crazy.”
+
+So, will that kind of cross-over success make West the biggest star in the universe?
+
+“I don’t want to be the biggest star in the universe,” he demurs. “I want to be the No. 1 artist in the world. There’s a big difference. Who’s the biggest star in the universe? Paris Hilton? Man, I don’t want to be Paris Hilton. But Bono can go to a restaurant and just chill, and he can sell out an 80,000-seater. That’s the ideal.”
+
+By now, West’s car has made it inside the stadium gates, and he’s in a hurry: He’s expected onstage in 20 minutes. Hegets out of the car and almost immediately bumps into Sting, striding in with his wife, Trudie Styler, and a pack of handlers. The two musicians stop to share a hello hug. They ve never met before but have spoken on the phone. They’ve got a surprise in store: Kanye will be joining the Police and John Mayer onstage for the last song of the evening, rappinga few bars in “Message in a Bottle.” But now, West has his own set to do. He’s whisked away in a golf cart and, after averting a minor backstage crisis involving the wardrobe of his all-female string section, he takes the stage to race through a hit-packed 20-minute set.
+
+After the performance, West retreats backstage with his crew, including the rapper Consequence and DJ A-Trak. There, he receives visits from celebrity well-wishers. Al Gore clasps West in an awkward approximation of a thug clutch, crying, “Awesome job!” Cameron Diaz materializes to congratulate the rapper on his show. “It’s amazing how one guy can command a whole stadium,” chirps Diaz, whose legs are approximately the length of the light towers ringing the stadium. “Not a bad day,” says West when Diaz. leaves. “First Rosario Dawson” — the actress introduced West’s performance — “now Cameron Diaz.”
+
+But West doesn’t have much time to exult. As his manager, Don — a childhood friend — keeps reminding him, there’s the small matter of a “Message in a Bottle” rap to attend to. He plops himself on a sofa, cues up an MP3 of “Message” on his laptop and starts trying to come up with lyrics. “I got a message in a bottle, a message for the models…” “Here’s one thing that I know/Al Gore got robbed, you know he got my vote.” At one point he jumps up, telling his crew, “Hey, check this out: ‘This girl told me, buy me something, you major/But I said, Al Gore told me, don’t waste paper. That’s kind of dope. I might have to save that.”
+
+As the Police performance nears, West seems no closer to 12 solid bars of material. Don looks concerned, but West is remarkably unfazed. “I have enough. I can go up there and freestyle, hit some punch lines,” he says, laughing. “I can always just kind of murmura little.” It seems a perversely casual approach to take to the closing performance of a blockbuster global concert.
+
+When the time comes, West stands stone-faced in the wings, waiting for his cue. Suddenly Sting is bellowing to a roaring crowd, “Ladies and gentlemen, Cain-Yay West!” West strides onstage, takes up a position next to Sting and begins to rap:
+
+> I’m sending a message in a bottle
+
+> It says we need a new tomorrow And we need some new leaders to follow.
+
+> And I’m a tell you this because I should
+
+> Sting, you the only police good in the hood And, now throw your hands in the air
+
+> We gonna elect John for mayor!
+
+It’s not exactly the kind of freestyle liable to strike fear into the heart of Lil Wayne. But when West reels around and cues drummer Stewart Copeland, who promptly smacks down on his snare and sends the band roaring back into the chorus, there’s no denying that the moment feels big. For the next three minutes, West is not a rapper so much as a cheerleader, jumping up, pumping his fist, shouting, “We can save the world!” while Mayer and the Police steamroll toward the song’s conclusion. As West bounds across the stage, you get the feeling he’s exactly where he wants to be: The go-to rapper for the global rock aristocracy, closing out a concert before a football-stadium crowd of 52,000-plus and a planet-spanning home audience of millions more. He’s not yet the No. 1 artist in the world-but he’s getting there. And against the backdrop of the Live Earth stage, his outfit looks fresh.
