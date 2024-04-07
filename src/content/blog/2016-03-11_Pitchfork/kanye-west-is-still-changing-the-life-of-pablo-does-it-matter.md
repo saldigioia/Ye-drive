@@ -1,0 +1,25 @@
+---
+title: "Kanye West Is Still Changing the Life of Pablo. Does It Matter?"
+description: "Kanye West is still Changing The Life of Pablo. It’s hard to say, but they are hardly revelations. The Chicago rapper’s verse corresponds to shift into a major key...."
+date: "2016-03-11"
+author: "Jayson Greene"
+source: "Pitchfork"
+summary: "Kanye West is still Changing The Life of Pablo. It’s hard to say, but they are hardly revelations. The Chicago rapper’s verse corresponds to shift into a major key."
+draft: false
+---
+
+# Kanye West Is Still Changing the Life of Pablo. Does It Matter?
+
+At what point is a record “over,” and who gets to make the call? Kanye West is seeing how far he can stretch the point right now, in a way no pop star has ever quite tried: in real-time. Last night, he followed through on his promise (threat?) to “fix” “Wolves,” updating the song on TIDAL with a verse from Vic Mensa and a guest spot from Sia, both of whom performed a nascent version of the song alongside West more than year ago on “SNL 40.” (Frank Ocean’s “Wolves” outro also became its own separate thing, titled “Frank’s Track.”) Earlier in the week, West changed a few details on the backing track for “Famous” and tweaked the infectiously phrased “She Puerto Rican Day Parade waving” so it became the less punchy “she in school to be a real estate agent.”
+
+What do these changes amount to, in the life of The Life of Pablo? It’s hard to say, but they are hardly revelations. “Wolves” has some buzzing static at its edges now during Kanye’s first verse. Mensa and Sia’s sung verses are the most substantial additions, but they also feel like embellishments: The Chicago rapper’s verse corresponds to a shift into a major key and steers the song into sappy territory, while the pop singer-songwriter’s part echoes the hook in her mannered, hiccuping style. Rap listeners are used to songs that expand and contract with added guest verses, but usually they’re called “remixes” and they have their own spot in the hierarchy: If this were presented as “Wolves (Remix),” I would probably listen to it once and shrug.
+
+Seen from one angle, Kanye’s been working to attain this obsessive level of creative control over his work since day one. He delayed 2005’s Late Registration twice so he could keep finessing the edges, admitting to the New York Times, “I’m going to work on something till the last minute they give me.” And by now, he’s achieved the goal. For TLOP, there is no “they” demanding that Kanye just hand it over already, no disinterested parties who can pry the document from his fingers and forcibly release him from the fever’s grip of creation. And yet, now that he’s gotten there, is it helping or hurting?
+
+I try to think of my own deadlines as a writer, and the clean break they offer — you can, and should be, obsessed with every detail of your work until this precise moment and then, it all has to be over. I try to imagine if I were the sole publisher of my own work, the singular arbiter of its finished state, and that millions and millions of people around the world hung on my every tweak. If I could change a comma into a semi-colon and make headlines, wouldn’t I? Hell yes. I would probably change it every day in some miniscule way until I or my audience lost their goddamn minds (likely the former).
+
+This is what the changes on TLOP feel like, to me: West is testing the shifting state of the “album cycle” to see if he can break it entirely, making his album like another piece of software on your phone that sends you push updates. But here’s the thing: Who actually likes updating the OS on their phones? Most consumers hate new app interfaces until they get used to them. At a certain point, music listeners start deciding when an album or song they enjoy is “done”; once they fall in love with one version of an idea, that’s the canonical one, and the other are just boring or annoying appendices.
+
+Think of how Star Wars fans treated George Lucas’s minor alterations to their beloved holy texts when he re-rereleased the original trilogy in the ‘90s. He inserted pointless scenes, CGI-painted characters into the background, changed the color on laser blasts, and crowded the farm with distractions. As is their tendency, Star Wars fans howled with rage. The benevolent creator of their universe became the Apostate and the Blasphemer, a prophet who started spouting false prophecies.
+
+I’m using hyperbolic language on purpose, but people’s connection to the art they love is inherently a religious feeling, built on non-reciprocal attachment and agreed-upon norms. There is a certain amount of flexibility in an artist’s self-created universe, but eventually they bump into the other people — the fans — who’ve decided to set up camp there too, usually to mutual displeasure. Once you start using your album as its own clickbait, you start dipping into a non-replenishing endowment fund of interest and goodwill. If The Life of Pablo continues to drag on indefinitely, it seems likely that the magic will start to drain away.

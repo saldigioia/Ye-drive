@@ -1,0 +1,19 @@
+---
+title: "Shaping Today"
+description: "Kim Kardashian and Kanye West (Keeping Up with Kimye), page 208. It’s impossible not to sail into controversial waters; for every ardent supporter there is a vociferous critic. Part of the pleasure of..."
+date: "2014-04-01"
+author: "Anna Wintour"
+source: "Vogue"
+summary: "Kim Kardashian and Kanye West (Keeping Up with Kimye), page 208. It’s impossible not to sail into controversial waters; for every ardent supporter there is a vociferous critic. Part of the pleasure of editing VOGUE is being able to feature those who define the culture."
+draft: false
+---
+
+# Shaping Today
+
+No doubt you have an opinion on the cover of this month’s *Vogue*. Everyone is going to have an opinion on this month’s cover. When it comes to Kim Kardashian and Kanye West (“Keeping Up with Kimye,” page 208), it’s impossible not to sail into controversial waters; for every ardent supporter there is a vociferous critic. Part of the pleasure of editing VOGUE, one that lies in a long tradition of this magazine, is being able to feature those who define the culture at any given moment, who stir things up, whose presence in the world shapes the way it looks and influences the way we see it. I think we can all agree on the fact that that role is currently being played by Kim and Kanye to a T. (Or perhaps that should be to a K?)
+
+If I told you the levels of secrecy that went into planning this story, it would take up the entire issue, let alone this letter. Needless to say, Grace Coddington and Annie Leibovitz, who created a wonderful series of images of the couple and their adorable baby girl, North, and the intrepid Hamish Bowles, who interviewed Kanye and Kim at Sarah Burton’s Alexander McQueen atelier in London, Le Meurice hotel in Paris, and Kim’s mother’s house in Los Angeles, all took the subterfuge in their stride-Grace and Hamish even donned Kanye-like disguises at one point. As for the cover, my opinion is that it is both charming and touching, and it was, I should add, entirely our idea to do it; you may have read that Kanye begged me to put his fiancee on Vogue’ s cover. He did nothing of the sort. The gossip might make better reading, but the simple fact of the matter is that it isn’t true.
+
+There’s barely a strand of the modern media that the Kardashian Wests haven’t been able to master, and for good reason: Kanye is an amazing performer and cultural provocateur, while Kim, through her strength of character, has created a place for herself in the glare of the world’s spotlight, and it takes real guts to do that. So, too, has Kate Upton, whose rise to fame was powered by her clever and intuitive understanding of social media. I have never made any secret of the fact that I am a big fan of Kate’s, and in “Follow Me!” (page 244), Jonathan Van Meter contextualizes her story within today’s selfie generation, examining the way that models, and the fashion industry as a whole, are trying to capitalize on the millions of followers that the likes of Twitter and Instagram can deliver.
+
+Since this is our annual Shape Issue, we have other compelling figures here whose sense of pride in their physicality is inspiring, such as the comedian Mindy Kaling (“Mindy over Matter,” page 234), the businesswoman Virginie Courtin-Clarins (“Lofty Ambition,” page 242), and the actress Emily Blunt (“The Big Easy,” page 236). One other individual who is immensely engaging is Annie Thorisdottir (“Power Player,” page 252), the only woman to win the CrossFit Games twice; because of that record-breaking achievement she has been hailed as the fittest woman in the world. Annie’s exercise regimen is punishing, training four hours a day, six days a week. It takes drive and determination to stick to that. And when it comes to the women that we feature this April, she is in good and like-minded company.

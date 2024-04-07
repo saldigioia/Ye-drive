@@ -1,0 +1,19 @@
+---
+title: "Of the Cloth"
+description: "Kanye West shares a poem about McDonald’s French fries. The fries and their plan inspire envy from the McNuggets, the salad, the ketchup, and even the McRib. West rapped on his debut album, “The Colle..."
+date: "2016-09-05"
+author: "Matthew Trammell"
+source: "The New Yorker"
+summary: "Kanye West shares a poem about McDonald’s French fries. The fries and their plan inspire envy from the McNuggets, the salad, the ketchup, and even the McRib. West rapped on his debut album, “The College Dropout,” from 2004."
+draft: false
+---
+
+# Of the Cloth
+
+Kanye West is back on tour.
+
+In a recent magazine published by the singer Frank Ocean, Kanye West shares a poem about French fries. Specifically, about McDonald’s French fries, which, he writes, “have a plan.” The fries and their plan inspire envy from the McNuggets, the salad, the ketchup, and even the McRib (“And he only be there some of the time”). Accompanying the poem is a photo spread, by Nabil Elderkin, of West at a McDonald’s takeout window, grabbing a bag from a reportedly seven-hundred-and-fifty-thousand-dollar Lamborghini. “First nigga with a Benz and a backpack,” West rapped on his debut album, “The College Dropout,” from 2004, toying with symbols of an old binary: the luxury cars of rap’s late-nineties maximalist period and the scrapbook-stuffed JanSports toted by the era’s anti-platinum purists. Twelve years later, a Lamborghini is a step up from a Benz, and McDonald’s isn’t exactly Harold’s Chicken Shack, but the blueprint remains.
+
+As a child, West split his time between his mother’s home, in Chicago, and his father’s, in the South. He wrote prolifically in school, and came to producing as a computer hobbyist. In the early aughts, he set off on a tear of career-launching song placements, including catalogue highlights with Jay Z’s Roc-A-Fella record label. West recounts these early years in a twelve-minute monologue on “Last Call,” the outro of “The College Dropout.” Well before he’d released an album, the screed suggests, West recognized the power, and the necessity, of human (or French-fry) agency. “I had picked out clothes, I had already started booking studio sessions, I started arranging my album, thinking of marketing schemes,” he explains, of an ultimately fruitless offer from Capitol Records. Toward the end of “30 Hours,” on last February’s “The Life of Pablo,” West sets off on a similar tangent, this time celebrating his just-closed fashion show at Madison Square Garden and thanking his collaborators. As he mentions his growing family, the recording catches his phone ringing. It’s Gabe Tesoriero, his longtime publicist, calling to put another plan into motion.
+
+This fall, West stages “Pablo” for the first time, including on two nights at Madison Square Garden (Sept. 5-6). It’s one of the year’s most highly anticipated nationwide tours, as fans and onlookers await the theatrical antics that West characteristically delivers. The extravagant “Yeezus” tour, in 2013, employed a shape-shifting mountain and an actor portraying Jesus Christ. But, more important, it featured West: brash, cogent, masked, and shirtless. His star power remains one of modern entertainment’s most salient and confounding draws. West’s fame can’t be explained by his roots in canonized rap classics, or by his fluency in contemporary aesthetics-the baroque orchestras on “Late Registration,” the vocoded trip-hop on “808s & Heartbreak,” or the industrial snarl of “Yeezus.” Indeed, his force of celebrity may have arrived well before his music. In the late Donda West’s book, “Raising Kanye,” the star’s mother describes finding him, at twelve or thirteen, in front of the mirror, “primping” and plotting. “Mom, look at me! I could be a teen-age sex symbol!” he said. She was tickled, because “He was serious.”

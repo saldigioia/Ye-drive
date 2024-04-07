@@ -1,0 +1,13 @@
+---
+title: "Why Margiela Teamed Up With Kanye"
+description: "Kanye Maison Martin Margiela wore a string of outfits during his latest concerts. The French fashion house provided him with an embroidered bomber jacket, a blanket coat and printed trousers. \"We didn..."
+date: "2013-11-06"
+author: "Ella Alexander"
+source: "Vogue UK"
+summary: "Kanye Maison Martin Margiela wore a string of outfits during his latest concerts. The French fashion house provided him with an embroidered bomber jacket, a blanket coat and printed trousers. \"We didn’t pay attention to what is being said about him in the press,\" the Maison says."
+draft: false
+---
+
+# Why Margiela Teamed Up With Kanye
+
+Maison Martin Margiela didn’t consider Kanye West’s outspoken nature when it came to designing the rapper’s Yeezus tour wardrobe. The French fashion house provided him with a string of outfits to be worn during his latest concerts, including an embroidered bomber jacket, a blanket coat and printed trousers — and says that his opinionated reputation was never an influential factor. “We didn’t pay attention to what is being said about him in the press, we just focused on what could be done with him,” Maison Martin Margiela told us. “We have wanted to work with Kanye West for a very long time, ever since he became a close friend of the Maison; supporting us a lot and coming to our shows. We like his music and the vision he had for the tour.” The brand was given no set brief — only to create a wardrobe that was in keeping with artist Vanessa Beecroft’s artistic direction for the tour. West worked closely with Margiela on the final designs. “Everything went very smoothly since our first meetings with Kanye at the beginning of the year,” said the Maison. “We firstly went through the Maison’s archives, finding iconic pieces to be reinterpreted. We then had a few fittings, bouncing ideas back and forth about how to adapt the garments, the fabrics, textures, colours and details, to transform them into a stage wardrobe. Making the pieces in our Parisian atelier allowed us to create pieces without any limits.” One of the bolder pieces that West wears on the tour is a reinterpreted version of the label’s signature mask, which appear in every couture show, created using crystals and mirrored detailing. The brand maintains that the accessory is more practical than you might think. “Kanye already performed in a crystal veil from our autumn/winter 2012 couture collection during a show in Paris last year, so it was an obvious decision to integrate some of them into the wardrobe,” continued the Maison. “It is very easy to see when wearing the veils as the black silk chiffon base is embroidered in a way that allows one to see through the fabric.”

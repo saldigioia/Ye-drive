@@ -1,0 +1,25 @@
+---
+title: "They’re So…real?"
+description: "Kim and Kanye West metastasized from celebrity tabloids to front row of high fashion. The reality superstar and superstar rapper shared the cover of the April Vogue. This fall, the couple stormed Pari..."
+date: "2014-12-08"
+author: "Anne Kingston"
+source: "Maclean’s"
+summary: "Kim and Kanye West metastasized from celebrity tabloids to front row of high fashion. The reality superstar and superstar rapper shared the cover of the April Vogue. This fall, the couple stormed Paris fashion week."
+draft: false
+---
+
+# They’re So…real?
+
+## This Year Cemented Kanye and Kim, in All Their Diamond-Encrusted Glory, as a Perfect Antidote to Brangelina
+
+This year, the headline-grabbing convergence known as Kimye metastasized from celebrity tabloids to the front row of high fashion — connecting the dots between the two. The reality superstar and superstar rapper shared the cover of the April Vogue, which called them the “#worldsmost-talkedaboutcouple,” a line destined to make them that. Inside were their first public family photos, shot by Annie Leibowitz, with baby daughter, North, whose nursery appeared to take design cues from Versailles’ Hall of Mirrors . The former royal chateau actually housed the couple’s rehearsal dinner before their grandiose May wedding in Florence; the bride’s gown was by Givenchy; the groom, a self-proclaimed “creative genius,” stage-managed such details as hand-engraved place settings in a marble dining table. This fall, the couple stormed Paris fashion week, kitted out in couture, with their new human fashion accessory dubbed “Lil Kimye” in tow. They received more coverage than the collections.
+
+Kim Kardashian and Kanye West, together for three years, have always provoked attention. But this year’s Vogue benediction, followed by a blowout wedding and the public debut of a toddler attired in absurd designer clothing saw a gelling of the Kimye brand-one fluid enough to occupy the apex or nadir of popular culture, depending on one’s point of view. Some see them as aspirational role models. (Kardashian, who presides over an empire, has 25 million Twitter followers, 10 million more than CNN; West has nearly 11 million.) Others sneer righteously at their garish excess. The reason is the same: Kimye exemplifies the fixation on celebrity, on money, on artificiality, on self-aggrandizement, on “me.” Each has found in the other the ideal partner to gaze in Narcissus’s pond — and to keep product moving. On Keeping Up with the Kardashians, Kim revealed that her wedding gift to West was a copy of Selfish, her 352-page collection of “selfies” to be published next year. First person is ever-present: One West song about Kardashian is titled I Won. Last month, West tweeted a link to his wife’s nude cover for Paper magazine — Venus rising from a Glad bag — with the boastful hashtag #AllDay. The buzz feeds both bottom lines (the pun, whether intended by the couple or not, is fully leveraged): The “Kim Kardashian: Hollywood” app is expected to net more than $200 million by year’s end; West’s Yeezus tour is about to yield a movie.
+
+As a marital brand, Kimye exists as an alternative-universe Brangelina. There are no visits to Bosnian refugees, no UN speeches. Yet there’s a refreshing realness to them, at least, compared to the impossibly virtuous Brangelina, and the impossibly airbrushed Jay Z and Beyonce. The union can be seen as a performance piece, showcasing the vacuity — and mesmerizing distraction — of conspicuous consumption, a public service in itself. They’re the modern-day Marie Antoinette and Louis XVI, an antidote to grim global news. For Kardashian’s 34th birthday, West gave her a $10,000 Hermes Birkin bag (no doubt donated by the company) painted garishly by North. His other gift was the novelty of a shopping spree at the Gap.
+
+The couple’s fashion debut exposes that enterprise, as well — Kim in a pink Chanel track suit designed to appear ravaged by moths, North’s solo modelling debut wearing baby Chanel and diamond studs in CR Fashion Book. Kimye’s selling power is not lost on designer brands that make their real money on mass-market accessories — hence, Valentino hosting a pre-wedding lunch, and haughty Vogue editor Anna Wintour courting them in a bid to tap into a new audience.
+
+What keeps Kimye in the spotlight, ironically, is the same gauche, if touching, try-hard ethos that makes them ripe for ridicule. The marble engraving was an epic waste, given no-shows Beyonce and Jay Z, who, reportedly, didn’t want to tarnish their brand by proximity. West admitted he spent days photo-shopping their wedding photo, yet the background wall of white flowers still looked like blue cheese.
+
+West rejects constant chatter that the union is for profit and publicity only: Kardashian is his “dream girl,” he insists; theirs is “a love story for the ages.” That’s clear in I Won: “I want to dip that ass in gold,” he raps. “I want to dip that ass in gold.” This year, he succeeded. As did she.
