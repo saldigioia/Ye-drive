@@ -1,0 +1,165 @@
+---
+title: Interviews
+description: Collection of radio, TV, and other broadcast interviews.
+date: "April 01 2024"
+---
+
+# Video Interviews:
+- 2002 Beat Kings.mp4
+- 2002-06-00 MTV You Heard It First.mp4
+- [2002-10-23 RadioPlanet.TV Interview.mov](https://drive.google.com/file/d/1QR-goPMxzMYBtYRfKE5_p5YeegakOoQS/view?usp=sharing)
+- 2003-03-00 Liris Crosse Interview.mp4
+- [2003-08-00 PlayNow.mp4](https://youtu.be/hKbtnZQxQeU)
+- [2003-08-15 POWER 99 FM.mov](https://youtu.be/YGqE0E-o0RY)
+- 2003-12 106 & Park.mp4
+- [2003-12 In The Streets.mov](https://youtu.be/QpPhkOHVY-8)
+- [2004 ABC 7 Chicago.mov](https://youtu.be/hFs-8ualsXo)
+- 2004 BTS at Westwood TV.mov
+- 2004 MASH.mov
+- 2004-01-25 Tim Westwood.mov
+- 2004-01-31 Houston Hip-Hop Summit.mp4
+- 2004-02-01 106 & Park.mp4
+- 2004-02-10 MTV News Direct Effect.mov
+- 2004-02-10 MTV TRL.mov
+- 2004-04-24 MTV Diary.ts
+- 2004-11-14 GRAMMYs Red.mp4
+- 2004-11-14 The Grammy Awards cut.mov
+- 2004-12-08 60 Minutes.mp4
+- [2005 Access Hollywood.mov](https://www.youtube.com/watch?v=nL86FGtncL0)
+- 2005 Late Registration Interview.mp4
+- [2005-02-07 Charlie Rose.mov](https://charlierose.com/video/player/9818)
+- 2005-02-12 CBS Early Show.mov
+- 2006 Hip Hop Uncensored Vol. 6 [DVD].mov
+- 2007-05-09 CBS with Donda.mp4
+- 2007-08-01 SMACK DVD.mp4
+- 2007-09-11 106 & Park Interview.mov
+- [2007-09-26 Wild 94.9.mp4](https://mega.nz/file/EUdV3YYB#6HJzMYP5kgq38gwqdzKk4JjOMZwLHQwEaphrpP1idmk)
+- 2007-09-27 Grammy Academy Honors.mp4
+- [2007-10-17 Lauren Toyota.mp4](https://www.youtube.com/watch?v=wPgIudiNd9Q)
+- 2008 Signed Media.mp4
+- 2008-11-13 Associated Press.mp4
+- 2008-11-25 Conan O'Brien Interview.mp4
+- [2010-11-12 Today Show.mov](https://www.youtube.com/watch?v=_cdlFd5-04E)
+- 2013 Our Vinyl Weighs A Ton.mp4
+- [2013-08-23 Kris Jenner.mp4](https://vimeo.com/73047849)
+- [2013-10-01 Zane Lowe.mov](https://www.youtube.com/watch?v=DR_yTQ0SYVA)
+- [2013-10-21 106.1 KMEL.mp4](https://drive.google.com/file/d/1VacS0EpWF8uKEssL43zswT68C6ogeQTG/view?usp=sharing)
+- 2013-10-28 97.1 AMP Los Angeles.mov
+- 2013-10-28 Power 106 with Big Boy
+  - [Part I](https://www.youtube.com/watch?v=7XECKbXoPk4)
+  - [Part II](https://www.youtube.com/watch?v=UuPQ7Wg06WI)
+  - [Part III](https://www.youtube.com/watch?v=WPcOSrowRu4)
+  - [Part IV](https://www.youtube.com/watch?v=NeYACXQQXME)
+  - [Part V](https://www.youtube.com/watch?v=lNICqsS702o)
+  - [Part VI](https://www.youtube.com/watch?v=y7FAxJSXau4)
+  - [Part VII](https://www.youtube.com/watch?v=AZ0-d3bhC1Y)
+- 2013-11-26 Hot 97.1.mov
+  - [Part I](https://www.youtube.com/watch?v=STFdFWHH7fI)
+  - [Part II](https://www.youtube.com/watch?v=fBPiFadu5T0)
+  - [Part III](https://www.youtube.com/watch?v=J78YDRHMS9M)
+  - [Part IV](https://www.youtube.com/watch?v=EeJcDPP_tQo)
+- [2013-11-26 Sway In The Morning.mov](https://www.youtube.com/watch?v=S78tT_YxF_c)
+- 2013-12-09 Saturday Night Online.mp4
+- 2014-02-26 Late Night with Seth Meyers.mov
+- [2015-02-20 The Breakfast Club.mov](https://www.youtube.com/watch?v=toWk6mybzVE)
+- [2015-02-26 Zane Lowe.mov](https://www.youtube.com/watch?v=4Rn0hDB6Z8k)
+- [2015-03-12 Clique TV.mov](https://www.youtube.com/watch?v=QDdOi-gBYfg)
+- [2015-05-11 SAIC Artist Talk Kanye West HON.mov](https://www.youtube.com/watch?v=ioqk8IZ38Lk)
+- [2015-10-06 SHOWstudio](https://www.youtube.com/watch?v=fYwiR1kA7gI)
+- [2015-12-07 The Oxford Guild.mov](https://www.youtube.com/watch?v=aJQjzJfmMhQ)
+- 2016-06-03 BigBoyTV.mp4
+- 2016-09-15 W Magazine.mov
+- [2016-11-21 Surface Magazine.mov](https://www.surfacemag.com/videos/kanye-west-free-form/)
+- 2018-04-18 Charlamagne The God.mov
+- 2018-05-02 TMZ.mp4
+- 2018-08-10 Jimmy Kimmel Live.mov
+- 2018-08-29 107.5 WGCI.mov
+- 2019-04-11 Vogue.mov
+- 2019-05-31 My Next Guest [S02 E01].mov
+- 2019-07-09 Forbes.mov
+- 2019-10-25 BigBoyTV.mp4
+- 2019-10-25 Zane Lowe.mov
+- 2019-11-07 Fast Company.mov
+- 2019-11-19 Joel Osteen.mov
+- 2020-02-03 Architectural Digest.mov
+- 2020-04-16 GQ.mov
+- 2020-09-01 Cannon’s Class.mov
+  - [Part I](https://www.youtube.com/watch?v=KzgsxJt_KSI)
+  - [Part II](https://www.youtube.com/watch?v=hcwfc6NwGh4)
+- 2020-10-24 Joe Rogan Experience 1554.mov
+- 2021-11-04 Drink Champs V1.mov
+- 2021-11-04 Drink Champs V2.mov
+- 2022-09-16 Alo.mov
+- 2022-09-22 ABC News.mov
+- 2022-10-06 Tucker Carlson.mov
+- 2022-10-07 Clique TV.mov
+- 2022-10-16 Drink Champs V3.mp4
+- 2022-10-17 NewsNation.mov
+- 2022-10-21 Piers Morgan.mov
+- 2022-11-10 Nightline [ABC News].mp4
+- 2022-11-28 Timcast IRL.mov
+- 2022-12-01 Infowars.mp4
+- 2024-03-15 BigBoyTV.mov
+- 2004 MTV Europe Music Awards.mp4
+- 2005-05-30 Tower Records, New York, NY [AP].mov
+- 2013-07-19 LAX, Los Angeles, CA.mp4
+- 2014-06-00 Cannes Lions International Festival of Creativity.mov
+- 2015-02-09 The Grammy Awards.mov
+- 2015-06-03 CFDA Fashion Awards.mov
+- 2015-12-02 Footwear News Annual Achievement Awards.mov
+- 2018-10-11 White House, Washington, D.C..mp4
+- 2022-10-24 Los Angeles.mp4
+- 2022-10-28 Los Angeles, CA.mp4
+- 2022-10-31 Manhattan Beach.mp4
+- 2022-11-27 Los Angeles CA.mov
+- 2022-11-27 Los Angeles, CA.mov
+- 2022-11-27 V3.mp4
+- 2022-11-27.mp4
+- 2024-02-12 Harry Reid International Airport [X17onlineVideo].mov
+- Rolling Stone Magazine 40th Anniversary Party.mp4
+
+<br>
+<br>
+
+# Audio Interviews:
+- [2002-06 MTV You Heard It First](https://www.youtube.com/watch?v=AwbSTjCRQDQ)
+- [2004 XFM The Rinse with James Hyman](https://www.youtube.com/watch?v=6EMAj-M8EUA)
+- [2004-01-01 All City Show With Kish Kash](https://soundcloud.com/dangreenpeace/kanye-west-on-the-all-city-show)
+- 2005 Tim Westwood.m4a
+- [2005-08-29 Hot 97 VIP Lounge with Angie Martinez.m4a](https://www.youtube.com/watch?v=Xf2xFg84Txg)
+- 2005-09-16 NPR.mp3
+- [2006-02-21 The Chris Moyles Show on Radio X](https://archive.org/details/Kanye_West_interview)
+- 2007 Power 106 with Big Boy.m4a
+- 2007 Tim Westwood.mp3
+- [2007-07-18 Hot 97.1.mp3](https://www.youtube.com/watch?v=EuVU1AuCojU)
+- [2007-08 Hot 97.1 Funkmaster Flex.m4a](https://www.youtube.com/watch?v=0AHEUceGuiA)
+- 2007-09-10 Hot 97.1.mp3
+  - [Part 1](https://www.youtube.com/watch?v=gz-xrHV-Ygs)
+  - [Part 2](https://www.youtube.com/watch?v=KAOU_-xOpFU)
+  - [Part 3](https://www.youtube.com/watch?v=EBAqUIIhEmM)
+- 2007-09-13 Jimmy Kimmel.m4a
+- 2007-09-20 Rolling Stone.mp3
+- 2008-10-16 Power 106 [edited].mp3
+- 2008-10-16 Power 106.m4a
+- 2008-11-12 Def Jam Conference Call.mp3
+- 2009 The Wake Up Show
+- 2010-08-00 Power 105.1.m4a
+- 2010-08-11 Angie Martinez.mp3
+- 2010-10-21 Access Hollywood.mp3
+- [2010-11-02 Hot 97.1 Funkmaster Flex.m4a](https://www.youtube.com/watch?v=SrCDdkOvwxk)
+- 2010-11-03 V 100.7 with Reggie Brown.m4a
+- 2013-10-21 Elvis Duran.m4a
+- 2013-10-28 Kevin & Bean.m4a
+- 2013-11-25 WPCG 98.5.m4a
+- 2013-11-26 92.3 Now.m4a
+- 2013-11-27 Ear Candy Mornings on SiriusXM
+- 2013-12-02 V-103 Atlanta.m4a
+- 2013-12-18 WGCI Interview.m4a
+- 2013-12-20 B96 Chicago.m4a
+- 2015-02-20 The Breakfast Club.m4a
+- 2016-05-03 The Steve Harvey Show.mp3
+- 2016-08-01 Annie Mac on BBC Radio 1.m4a
+- 2018-05-01 Charlamagne tha God.m4a
+- 2022-07-19 99.3 The Box.mp3
+- 2022-10-24 Lex Friedman #332.m4a
+- 2022-12-01 Infowars.mp3
