@@ -1,0 +1,15 @@
+---
+title: "“Wash Us in the Blood”"
+description: "Kanye West has often made his acquisition of enormous personal wealth seem a vital part of the civil rights struggle. In his more recent work, the sardonic nature of this contrast seems to have been r..."
+date: "2020-06-30"
+author: "Hubert Adjei-Kontoh"
+source: "Pitchfork"
+summary: "Kanye West has often made his acquisition of enormous personal wealth seem a vital part of the civil rights struggle. In his more recent work, the sardonic nature of this contrast seems to have been replaced with a sentimental admiration for peace purchased through riches. “Wash Us in the Blood” feels more like a tossed-off sketch than a meticulous portrait."
+draft: false
+---
+
+# “Wash Us in the Blood”
+
+Kanye West has often made his acquisition of enormous personal wealth seem a vital part of the civil rights struggle, a tack that generally works when it is done with a nod and wink. When he rapped, “We trying to buy back our 40 acres” on 2004’s “All Falls Down,” it was sarcasm with a bite; the song posited that material wealth is small comfort if your rights are up for debate: “Even if you in a Benz, you still a nigga in a coupe.” In his more recent work, the sardonic nature of this contrast seems to have been replaced with a sentimental admiration for peace purchased through riches. When he recounts telling his father that he has acquired a 4000-acre ranch at the end of the video for “Follow God,” his father’s bemused response to this information is hilarious: “A Black man?” But this seemingly potent symbol—West’s own multiplication of the government’s broken promise to freed slaves—rings hollow when you realize this land purchase probably cost West at least $14 million.
+
+“Wash Us in the Blood,” a single from his forthcoming album God’s Country, feels more like a tossed-off sketch than a meticulous portrait. Over a woozy, clippy production, West talks about mass incarceration, slavery, and genocide: “Genocide what it does/Slavery what it does/Rain down on us/Whole life sellin’ drugs.” Together, Kanye and Travis Scott ask for the Holy Spirit to come down, and, you guessed it, “wash us in the blood.” Now, the already overloaded song becomes parodic; they surely can’t be proposing that the prayers of these two musicians would provide balm in this time of uprising? More risible is the video directed by cinematographer and artist Arthur Jafa; clips of Breonna Taylor and Ahmaud Arbery emphasize the vitality of lives that were cut short, yet by freezing them in time next to Grand Theft Auto footage and sundry fight clips and viral videos, the actual effect is to deny the sacred inherent in the very lives the song seeks to praise. Black life is reduced to digital death and instant commodification. The whole enterprise seems like it was cobbled together to make a statement, yet it never coheres around a couplet as accurate as West’s verse on “So Appalled”: “Niggas is going through real shit, man, they out of work/That’s why another goddamn dance track gotta hurt.” A dance track would be preferable to whatever this is.

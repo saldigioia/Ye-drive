@@ -1,0 +1,57 @@
+---
+title: "The Town That Kanye Built"
+description: "The Town That Kanye Built In the Year 2018 BC (Before Celebrities), Cody, Wyoming. The town sits about an hour east of Yellowstone National Park, and for much of the year, it hosts droves of tourists...."
+date: "2021-05-01"
+author: "Mallory Rice"
+source: "‌Cosmopolitan"
+summary: "The Town That Kanye Built In the Year 2018 BC (Before Celebrities), Cody, Wyoming. The town sits about an hour east of Yellowstone National Park, and for much of the year, it hosts droves of tourists. Staying here long-term is considered proof of a person’s mettle."
+draft: false
+---
+
+# The Town That Kanye Built
+
+## In the Year 2018 BC (Before Celebrities), Cody, Wyoming, Was Just Cody, Wyoming. But Then Ye Moved In, Promising Jobs, a Creative Scene, And…a Urine Garden?
+
+When people from Cody, Wyoming, say that winter “blows the assholes away,” it’s both a lighthearted joke and a prayer. The town sits about an hour east of Yellowstone National Park, and for much of the year, it hosts droves of tourists, until they’re swept out by freezing winds that gust in from the mountains with near-hurricane force. “You can be blown off a trail, horse and all,” a meteorologist warned in the local paper.
+
+Staying here long-term is considered proof of a person’s mettle, and the 9,000+ souls who call Cody home treat its wild, natural landscape like an oasis meant only for those who know. With fewer residents than nearby action-sports hubs Bozeman and Denver, this is where you come if you’re an outdoor enthusiast who wants to get away from outdoor enthusiasts.
+
+When I, a journalist visiting from New York City and blending in not at all, first got to town, locals seemed most concerned about me outing their favorite fly-fishing hole—never mind the fact that my pop culture beat could not be further from “hot spots for hooking trophy trout.”
+
+All of this is to say that when rapper Kanye West and his wife, Kim Kardashian, purchased a multimillion- dollar property just over 10 miles from main street in September 2019, the emotions of Cody residents oscillated somewhere between pissed and pleased. “Apparently, they’ve already checked out Sunset School for their offspring,” one op-ed opined, adding that the name of one of the couple’s children was “pretentious.” A letter to the editor countered with, “The flip side of ‘don’t fence me in’ is ‘don’t gate me out,’” encouraging locals to keep an open mind. Facebook erupted in debate. For a while, Kanye was all anyone wanted to talk about—should Cody be defined by what it had been or what it could be?
+
+Almost immediately, the entourage was everywhere. Their sightings were frequent and recounted breathlessly. Ye cruising around town in one of his matte black Ford Raptors, dropping hundreds of dollars at boot and candy stores, tucking into cowboy cuisine at the Cody Steakhouse. Ye flying in jets full of his famous friends to record music and dabble in the luxury of creative solitude. Ye introducing himself via one of his epic Sunday Service performances, with a full choir belting out songs of worship, in the garden of the Buffalo Bill museum complex, one of Cody’s main attractions.
+
+Phyllis Bohm, an 85-year-old with a neatly cropped swoop of gray hair and a shih tzu named Hutch, remembers it well. Bohm hadn’t heard of Kanye until the papers reported his move. She took his arrival as a positive sign. Maybe mostly white Cody (94.2 percent, to be exact) could build a more racially diverse community. When, one Sunday, she saw a line full of young people, many of them Black, stretching for half a mile, she parked her car nearby to check out what was going on.
+
+A guy waiting in line asked what she was doing there. “Which I get, because I’m old,” she says. The man told her Kanye West was hosting an event and invited her to join him. “Normally, I don’t cut in line, but he said, ‘If you want, I’ll let you stand in front of me. I’ll take care of you,’” Bohm recalls. They waited together for about an hour and ended up at the front of the show. The energy of the crowd was thrilling, she says. “The preacher [choir director Jason White] was wonderful. Kanye West didn’t sing, but he took part and listened. I got pretty close to him.” Bohm felt elated. She started saving newspaper clippings about Kanye in case she ran into him again. Her granddaughter is in the performing arts and Bohm figures the clips could be a nice way to connect.
+
+Soon, crossing paths with Kanye became the norm, and Cody started to feel the heady rush of Hollywood coming to cowboy country.
+
+For all its initial ambivalence, Cody was now all in on its status as Kanye’s preferred zip code. Someone even put up a billboard emblazoned with “WELCOME WEST” along the road.
+
+Part of it was sheer relief. It felt like Cody was finally stabilizing after a few tough breaks—one major employer, the pharmaceutical company Cody Labs, had recently shut down its operations, leaving about 70 people without jobs. Then a drywall manufacturer that had been around since the 1960s closed too.
+
+But here was Kanye, promising an economic lifeline. After just a few months as a resident, he announced he’d be opening up a Yeezy proto type factory in a vacant Cody Labs building, one of several real estate grabs he made after purchasing his ranch. He also snagged a few empty lots on Cody’s east side. The potential of a Kanye-related boom was intriguing enough that the New York Times published a story exploring whether he’d turn Cody into a different kind of Western “company town,” one that made futuristic sneakers that sell out in minutes instead of rugged building materials. (A request for comment from Cosmo went unanswered by Kanye’s team.)
+
+True to form, Kanye had some other galaxy-brain-big ideas for the town, everything from plans for James Turrell–inspired dome-shaped dwellings to go on his otherwise rustic personal property to an affordable-housing construction process he described as possibly being “the Zara of homes” to a “urine garden” that would transform human waste into plant food. Even if some of it sounded far-fetched, compared with Wyomingites’ other future business options, it all at least sounded like fun.
+
+People started scrambling for gigs at Kanye’s West Lake Ranch, which needed groundskeepers and security staff and house cleaners to keep it humming. And for some, like Cody native Jacob Scott, chef and founder of catering service The Laughing Pig, working for Kanye was a game changer. “Our business was literally canceled for the year, no weddings or big events,” he says, citing the pandemic. Then Kanye’s team called. “We were suddenly busier than we had ever imagined possible.” Could Scott tell me what Kanye and his entourage requested to eat? No, he signed an NDA. Could Scott tell me what Kanye and his entourage requested to eat if I promised not to print it? No, he signed an NDA. (I, an intrepid reporter, can at least attest that Scott makes a mean, fall-off-the-bone BBQ.)
+
+At Express Employment, an agency that’s staffed jobs in the community for eight years and handled hiring for some of Kanye’s positions, the team was wary of putting too much pressure on The Kanye Opportunity. “I realize the gentleman has a tremendous amount of things on his plate, but as far as his manufacturing project…nobody seemed to know where that was going,” says owner Mary Brazill of the star’s projected economic impact on the area. And then, just like that, nobody seemed to know where Kanye himself was. By the fall of 2020, he had all but disappeared.
+
+The signs were all there. On top of running his empire, Kanye suddenly had a lot going on. In early July, he announced he was running for president (one of the last times he was seen in town was his visit to the Cody recreation center in November to vote for himself). A few weeks later, it was reported that he was allegedly having health issues, prompting friends like Dave Chappelle and Justin Bieber to come to town. Then there was the divorce. And as these things began to pull him in a million directions, they also might have pulled him out of town.
+
+Now, a year and a half after Kanye first moved in, almost everyone knows someone who used to work for him. Pink slips floated around town the way the whispers did when he first showed up. People watched many of their neighbors who’d been employed by Kanye go back to their previous jobs at car dealerships and utility companies. The creative types who’d streamed in on private planes and frequented a handful of the town’s bougier bars and restaurants dwindled to a skeleton crew. When I asked Scott if he’s worried about Kanye leaving for good, especially as he’s hoping to expand his business, he’s direct: “Obviously,” he says. “It’s something we have to be honest with ourselves about.”
+
+Meanwhile, Kanye still holds all his real estate in Wyoming and therefore hasn’t officially left left. But for people who continue to flock to the Great American West in hopes of catching their big Ye break, they arrive to find…nothing. Josh Spikes, a lanky 30-year-old artist and entrepreneur, drove from Wisconsin to drop off his résumé at Kanye’s ranch during a road trip in September but was told by security that Kanye wasn’t in town. (He still hung around for two weeks, though, taking in the landscape and making friends with locals.) In a similar story I heard, two 20-year-olds moved from Kansas City, Missouri, hoping to work for Kanye, but nothing ever panned out.
+
+It used to be that thrift-store owners I encountered asked me if I was shopping for Kanye. Now, nobody mentions him at all. The WELCOME WEST billboard has disappeared too, giving way to plenty of rumors and small-town gossip. I heard that he’s in Atlanta—is he moving there instead? Maybe Kim didn’t really like it here?
+
+And yet, some former Kanye employees do remain, having formed bonds in the town that compelled them to stay after their work for the artist was finished. John Boyd, a former consultant of Kanye’s who worked with him during his presidential campaign, sits at the dining table at his home in Cody, surrounded by notes scribbled for an in-progress book. “I didn’t have a perception of it,” he says of moving from New Jersey to Cody. “I didn’t even know it was on the map.” But by June 2020, Boyd was joining local organizers as a speaker at an event in support of the Black Lives Matter movement. He says he hasn’t talked to Kanye recently, but his son is in high school here and he’s started a Cody-based nonprofit organization called The Boyd Group for Creative Solutions. “I’ve been invited to dinner more times than I can remember,” he says.
+
+In other words, it’s not all about Kanye anymore.
+
+“If Kanye pulls out of here completely, Cody is still going to be on people’s mental map,” says Mayor Matt Hall. “They may be driving through the park and say, ‘Let’s go out the east entrance and see where Kanye moved.’ That kind of stuff will continue to help in the long run.”
+
+Still, before there could be a long run, there was another winter to get through. In February, there was a week so cold and snowy that cars were stranded around town—some, like mine, just straight-up broke down on the highway. But something else blew in too: a rumor that Kanye was back. He’d been seen driving through town, a local reporter told me over an after-work beer. Perhaps a sign of…something. Even if it’s just that the seasons change.

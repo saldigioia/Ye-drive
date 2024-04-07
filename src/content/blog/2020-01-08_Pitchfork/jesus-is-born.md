@@ -1,0 +1,29 @@
+---
+title: "Jesus Is Born"
+description: "Kanye West’s executive-produced gospel album is the most realized music to come from this era of his career. The production and the choir’s dynamic power creates an almost hallucinatory effect. He’s s..."
+date: "2020-01-08"
+author: "Shane Cashman"
+source: "Pitchfork"
+summary: "Kanye West’s executive-produced gospel album is the most realized music to come from this era of his career. The production and the choir’s dynamic power creates an almost hallucinatory effect. He’s still selecting old songs, whether they’re traditional hymns or late-’90s R&B hits, and recontextualizing them."
+draft: false
+---
+
+# Jesus Is Born
+
+## Kanye West’s Executive-Produced Gospel Album Is the Most Realized Music to Come From This Era of His Career. The Production and the Choir’s Dynamic Power Creates an Almost Hallucinatory Effect.
+
+Last October, Kanye West got into the booth with Zane Lowe and in a prophetic voice, he spoke: “Ye cannot die. Ye cannot be buried.” Since the genesis of his career, Kanye has had an outsized obsession with everlasting life: in art, in life, in Christ. For someone who built his earliest songs out of extracting vocal loops from obscure, sometimes decades-old songs, Kanye has seen the way musicians can be resurrected and given new life. Unearthing the voices of the dead almost makes time travelers of forgotten artists. They are rediscovered, fed through the sampler, chopped and warped and given new life in a new song, then spill anew from speakers into cars and arenas.
+
+Part of Kanye’s process is the meticulousness with which he works to flip samples by tweaking the speed, pitch, and phrasing to become something totally new. From songs like “Through the Wire,” where he flipped Chaka Khan’s “Through the Fire,” and on his breakout hit, “Jesus Walks,” where he sampled the Arc Choir and gave us the first real taste of the way he fuses two seemingly disparate venues: the club and the church.
+
+To be clear, there is very little club to be found on Jesus Is Born—it is a pure gospel album. One of the most radical elements of the album is what’s absent: Kanye’s voice. Instead, he’s assembled a massive choir to channel his Christian message in a joyous, all-consuming wave of sound. Although there are no samples here, per se, it’s as if Kanye is using the choir as a living, breathing sampler. He’s still selecting old songs, whether they’re traditional hymns or late-’90s R&B hits, and recontextualizing them. The voices almost seem to warp in real-time as though Kanye were at the sampler tweaking speed and pitch. The effect can be hallucinatory, like on the opening track, “Count Your Blessings”—a rendition of Rev. Timothy Wright’s original—when the choir climbs scales that reach notes so high it makes you feel like you’re staring directly into the sun.
+
+The album is at times minimal, just voice and piano, and at other times erupts into maximal textures of trombones, drums, and fluctuating voices that are all in the service of praise and joy. And even though there is something almost psychedelic about the production, Jesus Is Born has less in common with the slick, radio-friendly textures of 21st-century gospel music. It’s more of a descendent of more traditional singers like Mahalia Jackson, Sister Rosetta Tharpe, and the Clark Sisters. The Sunday Service Choir as a whole also seems to be taking cues from groups with no real lead singer like the Fisk Jubilee Singers, the Dixie Hummingbirds, and the Blind Boys of Alabama. They are collectives working in tandem to praise God. Some of these acts have existed for almost a century; perhaps Kanye hopes his Sunday Service will outlast him, as well.
+
+As is the case with many creative types, West has described himself as an artist with synesthesia—he sees sound as color. As such, light plays a major role in his artistic endeavors from stage to song. He chose Roden Crater—an extinct volcano in Arizona that the visual artist James Turrell has been transforming into a naked-eye observatory for the last 40 years—to create what would become the IMAX film to accompany his first overtly devotional album from 2019, Jesus Is King. The Sunday Service Choir features prominently in the film, as though they were shooting their voices through a giant telescope into the sky as light moves through them.
+
+And there is an impermeable quality of light in the DNA of Jesus Is Born. Even when Satan is mentioned toward the end of the record, on Pastor Shirley Caesar’s “Satan, We’re Gonna Tear Your Kingdom Down.” The song exudes a clear, white, blue shimmer, just like the album cover: a bright sun suspended over blue water, framed in dark blue. The voices actually sound like they are trying to tear a hole in the sky to conquer darkness. This, of course, is the point of Jesus Is Born. Aside from spreading the gospel, it’s a way to bottle extreme light and joy.
+
+Take the album’s final song: “Total Praise.” Like many Kanye songs, a singer begins vocalizing one line, just once, from the original source (Richard Smallwood’s 1990 song of the same name). Then, just like Kanye chopping up a sample, he extracts the most affecting bit of the original song, and has the entire choir circle around the word “amen,” as tenors, sopranos, and altos pile on in sections, until the song crescendos. It’s trance-like.
+
+The best artists continue to redefine the work that defined them. Whether Kanye’s rebirth has been endearing or distancing, he is still manipulating the human voice in new and, at the very least, interesting ways. Gone is the isolated, severed, screaming head that served as his Twitter avatar for years, replaced with a view of the globe centered over Africa. Both of these versions of Kanye seem like different ways of striving for life eternal—or ways in which to speak to something greater than himself.

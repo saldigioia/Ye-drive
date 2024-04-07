@@ -1,0 +1,33 @@
+---
+title: "A Report From the La Premiere of ​‘jesus Is King’"
+description: "Kanye West unveiled his Heavily Religious Project, Nature Sound Effects, and MAGA-Esque Merch. The show was supposed to start at 8pm, but at that point thousands were still stranded outside trying to ..."
+date: "2019-10-24"
+author: "Kevin EG Perry"
+source: "The Face"
+summary: "Kanye West unveiled his Heavily Religious Project, Nature Sound Effects, and MAGA-Esque Merch. The show was supposed to start at 8pm, but at that point thousands were still stranded outside trying to collect tickets. With the help of San Francisco installation artist Meg Webster the floor of the Forum was transformed into a pastoral landscape of reeds and long grass."
+draft: false
+---
+
+# A Report From the LA Premiere of ​‘Jesus Is King’
+
+## Kanye West Unveiled His Heavily Religious Project, Nature Sound Effects, and MAGA-Esque Merch.
+
+Last night in Los Angeles, Ye’s faithful flock descended on the Forum to hear his much delayed ninth album two days ahead of its (apparent) release. As they approached the venue they could see the record’s title JESUS IS KING in white lettering bathed in blue light, projected on the side of the building. Down in the parking lot, it was hell on earth.
+
+The show was supposed to start at 8pm, but at that point thousands were still stranded outside trying to collect tickets. At 8:35pm, Kanye took the mic and asked for patience. ​“Over half the people are not in the building yet,” he announced. ​“Can you give us 15 more minutes?” The crowd, chanting: ​“Yeezy!”, didn’t seem to mind at all, especially after he confirmed that the new record really is on its way this time. ​“Two days ​‘til the album drop,” he confirmed. ​“It’s coming.”
+
+With the help of San Francisco installation artist Meg Webster the floor of the Forum was transformed into a pastoral landscape of reeds and long grass. The natural elements were illuminated from above, as if by the light of God himself. Between them, dark rivers of people drifted in. A recording of crickets and other pastoral sounds filled the air. The intention seemed to be twofold: to invoke both Kanye’s bucolic new lifestyle and aesthetic on his Wyoming ranch and also the biblical scene of Moses in the bulrushes. Kanye’s last words before the show started: ​“Turn up the nature sound effects.”
+
+Eventually his fans – Tame Impala’s Kevin Parker and Blink-182​’s Travis Barker among them – managed to make it inside. The show began with a screening of the IMAX film also called Jesus Is King. Directed by Nick Knight, who was also behind Kanye’s videos for Black Skinhead and Bound 2, the majority of the 35 minute film is given over to showcasing the gospel vocals of his Sunday Service choir. It was shot at the Roden Crater, a stunning architectural creation by the artist James Turrell which is built inside an extinct volcano in Arizona’s Painted Desert. Kanye himself appears only towards the end of the film, sweeping up after the choir has departed before breaking into song accompanied by two pianists. The film closes with close-up footage of him cradling and singing to his youngest child, the aptly-named Psalm. For Kanye’s latest reinvention, he is following the words of Psalm 101: ​“I will sing of your love and justice; to you, LORD, I will sing praise.”
+
+He does a lot of that on Jesus Is King. As promised, after the film finished Kanye emerged onto the venue floor to play the album and was immediately mobbed. Eventually he managed to clamber up into one of the thickets of long grass, where a laptop desk was hastily erected in front of him. As the new record burst out over the speakers, the fans formed a circle around him, mirroring the imagery shot in the Roden Crater. The hands of the devout stretched out towards him, as if they were hoping just to touch the hem of his garments. Kanye may be a follower of Christ these days, but he still has no problem setting himself up as an idol.
+
+Still, he really has made an album entirely of Christian music. None of the songs he played included swearing, all of the songs he played included allusions to God. On Selah he even picks out specific Bible verses, including John 8:36: ​“So if the Son sets you free, you will be free indeed.” On Hands On he confesses he’s ​“only half-read Ephesians” and refers to the backlash he’s already received from some quarters: ​“Said I’m gonna do a gospel album /​What have you been hearing from Christians? /​They’ll be the first ones to judge me /​Make me feel that nobody loves me.”
+
+It’s hard to tell whether Kanye played the album in the order it will be released – certainly it was in a different order to the tracklist previously tweeted by Kim Kardashian West. At least one track has been retitled. Sunday is now Closed On Sunday, the only song Kanye introduced before he played it. ​“This one’s called Closed on Sunday,” he announced. ​“Just like Chick-fil‑A.” The crowd-pleasing track seems likely to be one of the album’s highlights, and was immediately adopted by the crowd for a call-and-response. Kanye played the line: ​“Closed on Sunday” and then shut the volume off so that the eager audience could respond with: ​“You’re my Chick-fil‑A.” Lyrically it’s a song about keeping the Sabbath sacred – perhaps with a nod to his wife’s love of photo opportunities woven in: ​“Hold the selfies /​put the ​‘Gram away /​Get Your family /​Clasp your hands and pray.” Whoever is in charge of marketing at Chick-fil‑A must be down on their knees thanking God as we speak.
+
+Throughout the show Kanye wore a blue Jesus Is King cap. The similarity in the design and block colouring to MAGA hats can’t have been entirely accidental. Despite peppering a recent Sunday Service in Salt Lake City with his controversial political views, in LA Kanye made no mention of Trump.
+
+Those blue hats, incidentally, were available from the merch stand for $45 (£35). Alternatively you could pick up sweaters for $170 (£130), sweat pants for $150 (£115) or T‑shirts for $60 (£46). On new track Water Kanye repeatedly calls on Christ: ​“Jesus, flow through us /​Jesus, heal the bruises,” later adding, ​“Jesus, give us wealth.” Kanye seems to have that part figured out, and never mind what The Big Man said about it being: ​“easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God.”
+
+As fans filtered out at the end of the show, the crowd was buzzing with excitement. For the hardcore Kanye fans, his alt-right proclamations have been forgiven or forgotten. ​“It’s not really about God though,” one fan astutely pointed out. ​“He’s still made it all about himself.” Kanye won’t call it a comeback. He’d rather see it as the second coming.
